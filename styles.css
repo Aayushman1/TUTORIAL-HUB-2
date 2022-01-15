@@ -33,3 +33,10 @@ body {
   width: 310px;
   font-family: fantasy;
 }
+
+.languages{
+  background-color: white;
+  display:flex;
+  border:solid white;
+  border-radius:20px;
+}
