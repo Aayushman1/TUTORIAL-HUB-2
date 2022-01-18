@@ -34,8 +34,12 @@ body {
   font-family: fantasy;
 }
 
-.languages{
-  background-color: white;
-  border:solid white;
-  border-radius:20px;
+.languages {
+    
+    border-radius: 20px;
+    background-color: white;
+    
+    width:310px;
+    font-family: fantasy;
+    
 }
